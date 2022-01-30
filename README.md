@@ -7,7 +7,7 @@ https://v2.jam-icons.com/ - **Original Site**
 Michael Amprimo - **Icons Author**
 
 ## Usage
-```
+```Lua
 local jamin, jamax = jam.min_range,  jam.max_range
 local apple = jam 'apple'
 local music = jam(0xeb4d)
