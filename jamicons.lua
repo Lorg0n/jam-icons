@@ -968,7 +968,7 @@ end
 setmetatable(jam, {
 	__call = function(t, v)
 		if (type(v) == 'string') then
-			return t['ICON_'..v:upper()] or '?'
+			return t[v:upper()] or '?'
 		elseif (type(v) == 'number' and v >= MIN_ICON and v <= MAX_ICON) then
 			return unicode_to_utf8(v)
 		end
