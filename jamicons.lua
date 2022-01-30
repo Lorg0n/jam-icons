@@ -983,3 +983,5 @@ setmetatable(jam, {
 		end
 	}
 })
+
+return jam
