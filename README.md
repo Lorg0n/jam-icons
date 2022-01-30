@@ -2,8 +2,9 @@
 This is a font from Jam Icons and a library developed for its use in the Lua language
 
 ## Links
-https://v2.jam-icons.com/ - **Original Site (bold)**
-Michael Amprimo - **Icons Author (bold)**
+https://v2.jam-icons.com/ - **Original Site**
+
+Michael Amprimo - **Icons Author**
 
 ## Usage
 ```
