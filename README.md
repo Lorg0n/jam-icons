@@ -2,7 +2,7 @@
 This is a font from Jam Icons and a library developed for its use in the Lua language
 
 ## Links
-https://v2.jam-icons.com/ - **Original Site**
+https://jam-icons.com/ - **Original Site**
 
 Michael Amprimo - **Icons Author**
 
